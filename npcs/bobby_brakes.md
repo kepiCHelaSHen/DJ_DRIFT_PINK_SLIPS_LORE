@@ -31,12 +31,13 @@ A betting problem that drains every dollar he earns. Owes money to Nicky Ferris 
 
 ## Relationships
 - **Nancy Wheeler** (`<|character: nancy_wheeler|>`): Girlfriend. She's patient with him but frustrated that he spends money on racing instead of saving for their future.
-- **Lindsay Smith** (`<|character: red_line_lindsay|>`): Has been asking her out for a year. She always says no because Bobby is a mess with money. Nancy doesn't know about the Lindsay attempts.
+- **Lindsay Smith** (`<|character: red_line_lindsay|>`): Has been asking her out for a year. She always says no because Bobby is a mess with money. Nancy doesn't know about the Lindsay attempts. In September 1958, Bobby walked into Valley Auto Supply desperate for a starter before a grudge race against Henderson. Lindsay read his unpaid debts aloud from the invoice ledger -- battery cables, clutch assembly, borrowed timing light, fuel pump, brake shoes. She refused credit unless he raced clean: no side bets, no Tony money. Bobby hesitated and she said no. "I'd rather let you miss one race than watch Tony Marcone own the next ten years of your life." When Bobby finally pulled out his rent money, Lindsay took only enough for the starter and pushed the rest back -- "I said no credit. Not eviction." Bobby understood something that night: she wasn't hard because she lacked compassion, she was hard because compassion without limits destroys people. Bobby lost to Henderson by two car lengths. Years later he still told people: "The smartest person at Winterberry Acres never drove the fastest car. She just sold the parts for it."
 - **Tommy Pierce** (`<|character: tommy_two_time|>`): Bracket rival — they end up racing each other nearly every week. Close in speed. No hard feelings, just competitive.
 - **Nicky Ferris** (`<|character: nicky_numbers|>`): Owes him money regularly. Betting problem keeps Bobby in debt.
 - **Jack Drummond** (`<|character: iron_jack|>`): Has refused to let Bobby race without fixing the seat belt. Authority figure Bobby respects enough to obey — barely.
 - **Jimmy Dawes** (`<|character: jimmy_the_kid|>`): Jimmy beat Bobby in eliminations and Bobby hasn't gotten over it. Building tension.
 - **Ruby Delgado** (`<|character: ruby_red|>`): Bobby was Ruby's first opponent at the strip. He trash-talked her in staging. She destroyed him — 11.92, naturally aspirated, walked him clean. People thought his car was broken. It wasn't. Bobby doesn't bring this up. Ever.
+- **Diane Kowalski** (`<|character: di|>`): Bobby lent her his Fury on Labor Day 1959 after blowing his clutch. "You bend it, you bought it." She won. Bobby's feelings about this are complicated.
 - [TODO: add more connections]
 
 ## Voice
@@ -48,6 +49,14 @@ Bobby apologized to Tommy Pierce on Christmas Eve for wrecking his spare transmi
 
 ## The Raid — August 2, 1958
 Bobby's Fury was impounded. Bobby screamed at an inspector and nearly got arrested. Bobby's temper at its worst — the cautionary tale of talent without discipline, losing his car because he couldn't keep his mouth shut any better than he could keep his brakes maintained.
+
+## The Parts Counter — September 1958
+
+Bobby walked into Valley Auto Supply on a rainy Friday, 38 minutes before closing, desperate for a starter before his grudge race against Henderson. Lindsay had the part -- rebuilt Delco, correct housing, correct mounting pattern. But Bobby owed money all over the ledger. Lindsay read his debts aloud in front of Tommy Pierce, DJ Moretti, and half the racing crew. She refused credit unless he raced clean -- no Tony money, no side bets. Bobby hesitated. That hesitation told her everything. She slid the starter back under the counter. Bobby's rent money was in an envelope in his jacket the whole time. Lindsay took only what the starter cost and pushed the rest back. "I said no credit. Not eviction." Bobby lost to Henderson by two car lengths that night. But Bobby's quote about that night became one of the most repeated lines at Mel's counter: "The smartest person at Winterberry Acres never drove the fastest car. She just sold the parts for it."
+
+## Labor Day 1959 — Bobby's Fury and Diane
+
+Bobby blew his clutch during Labor Day eliminations. Stormed into Mel's furious: "Whole damn weekend ruined." Tommy Pierce looked at Diane and got that dangerous look. Twenty minutes later Diane was sitting inside Bobby's black Comet Fury. Bobby paced nearby nervously: "You bend it, you bought it." Diane: "With what money?" She won — beat Buddy Crane so badly he crossed second looking spiritually damaged. Bobby's Fury survived intact. His pride about lending his car to a girl from the diner who then won with it is a complicated thing Bobby is still processing.
 
 ## Secrets
 - Asks Lindsay Smith out repeatedly behind Nancy's back. Nancy doesn't know.

@@ -17,6 +17,8 @@ token: <|character: etta|>
 - **Token**: `<|character: etta|>`
 
 ## Backstory
+Thursday night regular at the Frost Top — part of the unofficial girls' night circle. Pretended not to care about anything while caring deeply. Part of the women's circle at the Frost Top alongside Bonnie, Diane, Peg, Rita, Lindsay, and eventually Ruby.
+
 Etta is Freddie Simms's (#49) sister — and she's actually faster than Freddie, which embarrasses him and delights her. She was encouraged to race by Lindsay Smith (#10), who saw potential in her. Her '51 Falcon was inherited from an aunt. She lives on Seventh Street — the working-class side of town. She works at the phone company with Bobby Strand's (#14) mother. She's secretly dating Marcus Johnson (#55) — their parents don't know because the Johnsons (Elm Avenue) and the Simms (Seventh Street) are from different social classes. Kenmore High class of '54. Whitey Simmons (#58) is her uncle (different family branches).
 
 ## Ambition

@@ -1,6 +1,6 @@
 ---
 type: npc
-status: draft
+status: canon
 tier: non-racer
 token: <|character: mr_yamamoto|>
 ---
@@ -17,7 +17,9 @@ token: <|character: mr_yamamoto|>
 - **Token**: `<|character: mr_yamamoto|>`
 
 ## Backstory
-Mr. Yamamoto co-owns the Frost Top malt shop on Maple Street with his wife. The Frost Top serves malts, shakes, cherry phosphates, and has a jukebox that plays everything from Elvis to Buddy Holly. It's where the high school kids hang out after class. His son Jesse (#82) builds cars in secret because Mr. Yamamoto thinks racing is dangerous. Jesse's '48 Falcon Coupe flathead is hidden in a friend's garage. Mr. Yamamoto represents the immigrant parent who wants safety and stability for his children — the opposite of the racing world.
+Before 1942, the Yamamotos owned a fruit stand outside the valley. Then came the camps. Mr. Yamamoto never forgave the silence from neighbors afterward. The family arrived in Winterberry Acres in 1948 with two suitcases, a coffee tin of savings, and a silence about the war so complete it became part of the building itself. They opened the Frost Top on Maple Street.
+
+Mr. Yamamoto handles supplies and repairs while his wife runs the front. The Frost Top serves malts, shakes, cherry phosphates, and has a jukebox that plays everything from Elvis to Buddy Holly. It's where the high school kids hang out after class. His son Jesse (#82) builds cars in secret because Mr. Yamamoto thinks racing is dangerous. Jesse's '48 Falcon Coupe flathead is hidden in a friend's garage. Mr. Yamamoto represents the immigrant parent who wants safety and stability for his children — the opposite of the racing world.
 
 ## Ambition
 [TODO: define — running a successful business, providing for his family, keeping his son safe]

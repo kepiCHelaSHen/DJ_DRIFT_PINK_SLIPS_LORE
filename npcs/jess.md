@@ -1,6 +1,6 @@
 ---
 type: npc
-status: draft
+status: canon
 tier: 5
 token: <|character: jess|>
 ---
@@ -17,7 +17,11 @@ token: <|character: jess|>
 - **Token**: `<|character: jess|>`
 
 ## Backstory
-Jesse is the son of Mr. and Mrs. Yamamoto, who own the Frost Top malt shop on Maple Street. He builds cars in secret because his parents think racing is dangerous. His '48 Falcon Coupe flathead is hidden in a friend's garage. He has good hands and good instincts. He knows more about flathead Falcons than most adults because he reads every car magazine cover to cover. Friends with Jimmy Dawes (#8) — they bond over having strict parents. Jesse and Bonnie Carmichael (#90) are becoming friends because they both hide at the Frost Top and talk about cars when the manager isn't looking. Kenmore High class of '58.
+Jesse is the son of Mr. and Mrs. Yamamoto, who own the Frost Top malt shop on Maple Street. He fixes the jukebox on weekends whenever it jams. He builds cars in secret because his parents think racing is dangerous. His '48 Falcon Coupe flathead is hidden in a friend's garage. He has good hands and good instincts. He knows more about flathead Falcons than most adults because he reads every car magazine cover to cover. Friends with Jimmy Dawes (#8) — they bond over having strict parents. Jesse and Bonnie Carmichael (#90) are becoming friends because they both hide at the Frost Top and talk about cars when the manager isn't looking. Kenmore High class of '58.
+
+His parents' camp history weighs on him. Before 1942, the Yamamotos owned a fruit stand outside the valley. Then came the fences. Jesse was only seven years old when soldiers tagged their family property for seizure. Mrs. Yamamoto never forgot the sound of boots near the front porch. Mr. Yamamoto never forgave the silence from neighbors afterward. Jesse carries this history — the knowledge that Winterberry Acres pretended not to notice any of it when the family arrived in 1948. Which somehow hurt worse.
+
+One night Diane Kowalski accidentally found Jesse crying behind the restaurant after some drunk customer called him a slur. Jesse wiped his face immediately, embarrassed. "Don't tell my mother." Diane sat beside him quietly. "You know everybody here loves this place, right?" Jesse laughed bitterly. "They love milkshakes." Diane looked toward the glowing Frost Top windows. "No. They love what your family built." That was the first time Jesse started believing Winterberry Acres might actually become home.
 
 ## Ambition
 [TODO: define — racing openly, without having to hide it from his parents]
@@ -30,6 +34,7 @@ The secret. His parents think racing is dangerous and he hides the car in someon
 - **Mrs. Yamamoto** (`<|character: mrs_yamamoto|>`): Mother. Same concerns.
 - **Jimmy Dawes** (`<|character: jimmy_the_kid|>`): Friend. They bond over strict parents. Jesse tried to set Jimmy up with a girl from church — it went badly.
 - **Bonnie Carmichael** (`<|character: bonnie|>`): Becoming friends. Both hide at the Frost Top and talk about cars.
+- **Diane Kowalski** (`<|character: di|>`): Found him crying behind the restaurant after a customer used a slur. "They love what your family built." The first person who made him believe Winterberry Acres could be home.
 - [TODO: add more connections]
 
 ## Voice

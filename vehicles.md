@@ -1,7 +1,7 @@
 ---
 type: reference
 status: canon
-description: Complete vehicle bible — 5 manufacturers, 50 vehicles, engine specs, NPC assignments
+description: Complete vehicle bible — 5 manufacturers, 51 vehicles, engine specs, NPC assignments
 ---
 
 # Winterberry Acres Vehicle Bible
@@ -72,7 +72,7 @@ The commercial and utility brand. Atlas makes the trucks, vans, buses, and work 
 
 ## The Fleet — Complete Vehicle Roster
 
-### Falcon Motor Company (16 vehicles)
+### Falcon Motor Company (17 vehicles)
 
 | # | Pipeline ID | Model Name | Year | Body Style | Description |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@ The commercial and utility brand. Atlas makes the trucks, vans, buses, and work 
 | 34 | `police_55` | **Falcon Bel-Star (Police)** | 1955 | Police cruiser | The standard-issue Potter County Sheriff's Department vehicle. Same Bel-Star sedan the neighbors drive, but with a push bar, spotlight, siren, and a 283 under the hood. Deputy Morris can catch anything on Main Street. Anything on Route 9, less certain. |
 | 37 | `taxi_56` | **Falcon Bel-Star (Taxi)** | 1956 | Taxi cab | Yellow paint, roof light, a meter that's been "broken" since February. Winterberry's taxi fleet is three cars, all Falcons, all with mysterious odors. The driver knows every shortcut in Potter County. |
 | 39 | `military_52` | **Falcon Bel-Star (Staff Car)** | 1952 | Army staff car | Olive drab paint, blackout lights, whip antenna, white star on the door. Fort Irwin surplus. A few ended up in civilian hands after Korea. Jack Drummond drove one home in '45. |
+| 51 | `skyliner_57` | **Falcon Skyliner** | 1957 | Retractable hardtop convertible | The car with the disappearing roof. Push a button and the steel hardtop folds into the trunk like a magic trick. Two-tone paint, bench seats, factory radio, automatic transmission. Not a racing car — a Sunday drive car. A summer evening car. A car built for surviving hard years gracefully. Angie Ferraro's is turquoise and white, and it's the first thing she ever owned that was fully hers. |
 
 ### Comet Motors (8 vehicles)
 
@@ -214,7 +215,8 @@ The `Pipeline ID` column maps directly to the chassis filenames in the 3D pipeli
 | Carmine Ferraro | Comet Fury '57 | `plymouth_57` | Purple. Hidden in garage. Raced alone at 3am. |
 | Old Gene | Comet Deuce '34 | `hotrod_32` | Built 1947, still racing, runs fourteens |
 | Bobby Brakes | Comet Fury '56 | `plymouth_57` | Bald tires, squealing brakes, low thirteens |
-| Angie Ferraro | Atlas Lunch Counter '52 | `hotdog_52` | Hot dog stand at the strip. Saving for a real car. |
+| Angie Ferraro | Atlas Lunch Counter '52 | `hotdog_52` | Hot dog stand at the strip. |
+| Angie Ferraro | Falcon Skyliner '57 | `skyliner_57` | Two-tone turquoise and white. Automatic. First thing she ever owned. |
 | Deputy Morris | Falcon Bel-Star '55 (Police) | `police_55` | Standard issue. Catches most people. |
 | Wes Buckley | Atlas Wrecker '55 | `tow_55` | Only tow truck in town. Double after midnight. |
 

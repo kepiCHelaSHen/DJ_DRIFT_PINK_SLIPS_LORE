@@ -39,6 +39,7 @@ The weight of his father's legacy — running the drive-in is both an honor and 
 - **Nicky Ferris** (`<|character: nicky_numbers|>`): Mild tension. Nicky runs gambling operations near the drive-in and DJ doesn't want that heat associated with his business. They stay civil, but DJ won't let Nicky set up on his property.
 - **Jimmy Dawes** (`<|character: jimmy_the_kid|>`): Part of DJ's wider social circle. Jimmy has a crush on DJ's sister Sofia.
 - **Shirley Brennan** (non-racer): Current girlfriend, a nurse at County General. Six months together and going well. Before Shirley, DJ dated half the girls in town.
+- **Angie Ferraro** (`<|character: angie|>`): Announced Angie's car fund over the loudspeaker at the strip. Emptied change jars onto the counter dramatically the night Ruby orchestrated the finish in late July 1959. When Angie parked the turquoise and white Skyliner at the strip: "Look at Angie movin' up in society!"
 - **Sofia Moretti** (non-racer): Younger sister, 18. Works the ticket booth at the drive-in. Aware of Jimmy Dawes's crush; thinks it's cute but hasn't encouraged it.
 - **Gina Moretti** (non-racer): Older sister, 22. Married, lives in Riverside.
 - **Lucia Moretti** (non-racer): Mother. Still makes popcorn at the drive-in on weekends.
@@ -70,8 +71,16 @@ DJ walked into a trash can staring at Vivian Laurent on opening night. Tommy Pie
 ## The Raid — August 2, 1958
 DJ's Skylark was impounded. When the sirens started, DJ dropped the microphone — the loudspeaker squealed with feedback. Then he tried talking his way through three separate violations simultaneously. It didn't work. DJ without his car and without the microphone — two of the worst things that could happen to him in one night. The MC of Winterberry Acres, the man who keeps the energy up and the crowd under control, suddenly had no platform and no ride. The raid stripped DJ of the two things that define him.
 
+## At Valley Auto Supply — September 1958
+
+DJ was at Valley Auto Supply the night of the Bobby Strand confrontation, needing another distributor despite allegedly replacing one three days earlier. When Lindsay went to the back to find Bobby's starter, DJ said: "She's got one. Valley always has one." He stopped smiling when Lindsay told Bobby "That sounds like a Bobby problem" -- because everybody realized she wasn't being cruel, she was being immovable.
+
+## Ruby's Laugh
+
+DJ later swore that hearing Ruby laugh was like spotting a mountain lion in town. Ruby laughed during her first real conversation with Lindsay at the empty strip after closing one Wednesday night in summer 1958. DJ was supposedly "helping clean up," which mostly meant talking while other people worked. The mountain lion comparison stuck.
+
 ## Secrets
-- Too likeable for deep secrets — but that itself might be a mask. Does DJ ever show vulnerability? [INFERRED]
+- Too likeable for deep secrets -- but that itself might be a mask. Does DJ ever show vulnerability? [INFERRED]
 - The tension with Nicky Ferris could escalate if gambling moves closer to the drive-in
 - DJ wants to organize a drive-out to Crybaby Bridge for Halloween every year. "Oh man, Crybaby Bridge! Best campfire story in the county. Hey, you know what, we should do a drive-out there for Halloween—" Everyone shuts him down. Every year.
 - [TODO: add hidden lore — what does DJ know about everyone from being the social hub?]

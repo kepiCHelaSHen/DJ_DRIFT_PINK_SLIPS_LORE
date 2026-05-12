@@ -43,6 +43,7 @@ Age. He's 58 in a young man's world. The '34 Deuce runs fourteens and the body c
 - **Eunice Whitfield** (non-racer): Even she respects Gene, grudgingly. He's the only person in the racing community who has her ear.
 - **Mabel Hartwell** (non-racer): Wife of 35 years. Leaves the strip early every Friday because she's "heard enough engines for one lifetime." Secretly loves that Gene has something that keeps him young.
 - **Johnny Vale** (deceased): Gene remembers the night Henderson came. Remembers the sound of the Rocket 88. "Some cars got horsepower. Johnny's car had hate in it." Gene wonders sometimes — late at night, too much coffee — whether Johnny would still be alive if Henderson had never rolled into Winterberry Acres. He's said it aloud maybe twice. Both times he regretted it before the sentence was finished.
+- **Angie Ferraro** (`<|character: angie|>`): Gene is one of only five people who know the full truth about Angie's sacrifice in the summer of 1957 — how she carried her entire savings into the tower and saved the strip from shutting down. The recipe box, the coffee tin, the envelopes. "Something of my own." Another weight Gene carries quietly for someone he respects.
 - **Wes Buckley** (`<|character: wes|>`): Fellow veteran. Part of the older generation that anchors the community.
 
 ## Voice

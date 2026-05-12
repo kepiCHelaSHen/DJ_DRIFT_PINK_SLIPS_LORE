@@ -40,8 +40,21 @@ Mel's most famous quote about that night: "That was the only night I ever saw He
 ## The Raid — August 2, 1958
 The morning after the raid, every diner in Potter County talked about it like a funeral. And in a way, it was. Mel's was ground zero for the post-raid grief. The back booth filled early and stayed full. Coffee kept coming. Nobody ordered food — they just sat there. Twelve cars impounded. People standing under floodlights watching their cars disappear into the dark. The raid is one of Mel's stories that needs no embellishment and gets none. Some things are too heavy even for Mel. Another chapter in the oral history collection — but this one he tells quietly.
 
+## The Frost Top
+Mel knows Diane spends Thursday nights at the Frost Top. He's fine with it. The women need a place that isn't his diner.
+
+## Bobby's Quote
+
+Bobby Strand's line about Lindsay -- "The smartest person at Winterberry Acres never drove the fastest car. She just sold the parts for it." -- gets repeated at Mel's counter. It's one of those lines that enters the diner's oral history naturally. Mel probably tells it better than Bobby does by now.
+
+## Diane Racing — Summer 1958 to Labor Day 1959
+
+**Summer 1958 — Finding Diane at the Strip.** Thursday night, after closing. Mel was carrying trash behind the diner when he heard an engine near the strip garages — the shifting too cautious, too measured. Like somebody learning. He found Diane behind the wheel of Tommy Pierce's Falcon. "How long?" / "A couple months." / "Jesus Christ." That hurt worse than yelling. Diane defended herself: careful, only after closing, Tommy says she's getting good. Mel asked: "You think this place needs another person getting hurt?" Diane said quietly: "I already love it." That stopped him — because she sounded exactly like her mother. "If this was about boys, I could stop it. You actually want it." Rules: keep it slow, keep it smart, never Route 9. "Your mother's gonna kill me." That finally made Diane laugh. And a few seconds later, Mel did too.
+
+**Labor Day 1959 — Diane's First Real Race.** Mel stood near the fence looking deeply unhappy. Ruby stood beside him oddly calm — and Ruby only got calm when she already knew the outcome. Ruby told Mel "He's dead" before the flag dropped. Diane launched clean in Bobby's Fury, embarrassed Buddy Crane completely. Mel walked over slowly. Looked at the timeslip. Then: "You shift smoother than Tommy." Tommy yelled "HEY" from across the pits. And for the first time since she started racing, Mel stopped looking afraid. Not completely. Just enough. That mattered more than winning ever could.
+
 ## Ambition
-[TODO: define — Mel seems content running the diner, which is the center of everything]
+[TODO: define -- Mel seems content running the diner, which is the center of everything]
 
 ## Burden
 [TODO: define — feeding a town, keeping the peace between feuding racers in his booths, worrying about his kids racing]
@@ -61,6 +74,7 @@ The morning after the raid, every diner in Potter County talked about it like a 
 - **Pat O'Brien** (`<|character: paddy|>`): Banned for a week (with Del Hartley) for fighting in the parking lot.
 - **Del Hartley** (`<|character: del|>`): Banned for a week (with Paddy) for fighting in the parking lot.
 - **Tony Marcone** (`<|character: tony_marc|>`): Tony sent Nicky to Mel's for coffee that first night in 1950 — "If you want good coffee, go to Mel's." But Mel remembers the rainstorm differently. Mel's was one of only two places open past midnight. Mel watched Tony walk past the diner window toward the pool hall — dark overcoat, leather suitcase, polished shoes in the rain. Didn't think anything of it at the time. Now he thinks about it plenty. The man who walked past his window that night built the quietest criminal operation in Potter County, and Mel served him coffee the next morning like he was any other customer.
+- **Angie Ferraro** (`<|character: angie|>`): Angie and Carmine's sacrifice in the summer of 1957 — the recipe box, the coffee tin, the envelopes that saved the strip — was supposed to be a secret. Only five people know the full truth. Whether Mel is secretly the sixth is an open question. Mel hears everything from behind that counter. He's smarter than people think. And sometimes, when Carmine says something about the early days of the strip, Mel glances at Angie a beat too long. Just like he does with Jack when Johnny Vale comes up.
 - [TODO: add more connections — Mel interacts with literally everyone in town]
 
 ## Voice

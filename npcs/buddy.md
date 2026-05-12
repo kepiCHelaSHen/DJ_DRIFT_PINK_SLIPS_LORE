@@ -1,6 +1,6 @@
 ---
 type: npc
-status: draft
+status: canon
 tier: 5
 token: <|character: buddy|>
 ---
@@ -9,7 +9,7 @@ token: <|character: buddy|>
 ## Identity
 - **Age**: 19
 - **DOB**: [TODO]
-- **Car**: '54 Falcon Bel-Star (clean, well-maintained, not built for speed)
+- **Car**: '54 Falcon Bel-Star / stock Skylark (clean, well-maintained, not built for speed)
 - **Job**: Hardware store (with Skylar and Lenny)
 - **Lives**: [TODO]
 - **Hangs out**: Hardware store (weekdays), strip (Friday nights)
@@ -18,6 +18,10 @@ token: <|character: buddy|>
 
 ## Backstory
 Buddy is happy-go-lucky. He runs fourteens and doesn't care about going faster. He just loves being at the strip. His '54 Falcon Bel-Star is clean and well-maintained but not built for speed. He works at the hardware store with Skylar Johnson (#6) and Lenny Hooper (#37) — the three of them are the "hardware store racing crew." Kenmore High class of '56.
+
+Buddy is the younger half-brother of Nelson Avery — different fathers, same mother. Buddy is 19 and cocky; Nelson is 23 and quiet. Nelson helps Buddy at the strip on weekends but doesn't race himself. Buddy drives a stock Skylark.
+
+**Labor Day 1959 — The Diane Incident.** Buddy got matched against Diane Kowalski in Bobby's Fury for what was supposed to be a fun run, crowd entertainment. Buddy made the mistake immediately, leaning out the window: "Try not to spill coffee in there, sweetheart." The whole crowd laughed. Then Diane launched clean and embarrassed him completely. Buddy crossed second looking spiritually damaged. He hasn't lived it down.
 
 ## Ambition
 [TODO: define — Buddy seems content with the social aspect of racing rather than competition]
@@ -28,6 +32,8 @@ Buddy is happy-go-lucky. He runs fourteens and doesn't care about going faster. 
 ## Relationships
 - **Skylar Johnson** (`<|character: sky|>`): Hardware store coworker.
 - **Lenny Hooper** (`<|character: lenny|>`): Hardware store coworker. The three of them are the hardware store racing crew.
+- **Nelson Avery** (`<|character: nelly|>`): Older half-brother. Different fathers, same mother. Nelson helps Buddy at the strip but doesn't race. Quiet where Buddy is loud.
+- **Diane Kowalski** (`<|character: di|>`): Beat him on Labor Day 1959. Buddy trash-talked her at staging. She embarrassed him completely. He looked spiritually damaged crossing second.
 - [TODO: add more connections]
 
 ## Voice

@@ -67,13 +67,17 @@ Grief. Her father's death hollowed her out, and the Stingray is the only thing f
 - **Iron Jack** (`<|character: iron_jack|>`): The closest thing she has to a mentor. The only racer who treated her as an equal from day one. Quiet mutual respect. Jack has quiet pride in her — recognized her talent early.
 - **Tommy Pierce** (`<|character: tommy_two_time|>`): There are rumors they have feelings for each other, but neither has acted on it. Tommy brings her coffee at the strip. She lets him look at her engine — more intimacy than she shows anyone. The tension is visible to everyone except possibly them.
 - **Sam Otero** (`<|character: sammy_o|>`): Her only real friend. Briefly dated in high school — no spark, great friendship. One of the few people who never questioned her ability.
-- **Lindsay Smith** (`<|character: red_line_lindsay|>`): Quiet mutual respect — the only other woman racing regularly. They don't socialize, but they nod at each other on the starting line. A solidarity that doesn't need words.
+- **Lindsay Smith** (`<|character: red_line_lindsay|>`): The only other woman racing regularly. For a long time they just orbited each other -- not enemies, not friends, just two quiet women in a loud world, watching each other from opposite sides of the pits like two mechanics inspecting unfamiliar tools. The first real conversation happened on a Wednesday night in summer 1958 at the empty strip after closing. Lindsay spotted a binding carb linkage on the Stingray's passenger-side rear barrel that Ruby had missed. Ruby fixed it and asked how Lindsay caught it. "Sounded wrong." They talked for an hour -- cars, stupid men, fear, money, how exhausting respect could become. Lindsay said "The cars don't care who you are." Ruby told Lindsay about the two notebooks and explained she stopped keeping them because she "Started winning too much." Lindsay laughed hard enough she had to look away. The parting exchange sealed it -- Ruby: "They still think we're the unusual ones." Lindsay: "Meanwhile they're the ones strapping themselves into explosions every weekend." That night, both women felt slightly less alone for the first time since arriving at Winterberry Acres. A real friendship, not just solidarity.
 - **Del Hartley** (`<|character: del|>`): Told her to "go home and bake a cake." She beat him by three car lengths the next Friday and parked next to him in the pits without a word. Del hasn't spoken to her since.
 - **Smooth Ray** (`<|character: smooth_ray|>`): Tried to ask her out. She shut him down so coldly he didn't speak to her for a month.
 - **Miguel Delgado** (deceased): Her father. Ran Delgado Auto Repair. Taught her everything. Died of stomach cancer, March 1956. The defining relationship of her life.
 - **Johnny Vale** (deceased): Ruby never knew him, but her father Miguel worked on the Rocket 88 once at Delgado Auto Repair. Ruby found a receipt in her father's papers — a work order signed by Johnny Vale. Another ghost connecting her to the history of this town through her father's hands.
+- **Diane Kowalski** (`<|character: di|>`): Ruby stood beside Mel during Diane's first race on Labor Day 1959, oddly calm. Told Mel "He's dead" before the flag dropped when Buddy trash-talked Diane at staging. Ruby recognized what was happening immediately — the same thing that happened to her. A woman walking into a man's world and silencing it.
+- **Mrs. Yamamoto** (`<|character: mrs_yamamoto|>`): Knocked on the car window with a paper bag. "No you're not." Brought Ruby inside the Frost Top. Mrs. Yamamoto brings food to people who say they're fine when they're not.
+- **Bonnie Carmichael** (`<|character: bonnie|>`): "You're terrifying at the strip. But in here you just seem tired." The tractor engine story changed things between them.
 - **Carmen Delgado** (non-racer): Her mother. Works at the Piggly Wiggly. Friends with Elaine Dawes (Jimmy's mother).
 - **Deputy Morris** (`<|character: deputy_morris|>`): Mutual respect despite the impound. Morris didn't want to take the Stingray. Ruby's quiet devastation — removing her gloves, three words — cut deeper than any screaming match could have. "You proud of yourself?" / "No."
+- **Angie Ferraro** (`<|character: angie|>`): Ruby orchestrated the finish of Angie's car fund without saying a word. Near midnight on a big race weekend in late July 1959, Ruby walked up to the stand: "How much exactly?" Angie checked the notebook: "Nineteen forty-three." Ruby nodded once, walked away, and twenty minutes later Henderson, Tommy, DJ, and Jack all showed up with money. The next afternoon Ruby went car shopping with Angie in Riverside — "approached car purchases like military operations." They came back with a turquoise and white '57 Falcon Skyliner. This is the Ruby nobody sees: she acts, she doesn't announce. Ruby is one of five people who know the full story of how Angie saved the strip in 1957.
 
 ## Voice
 - Medium, deliberate sentences. Educated but casual vocabulary. Pauses before delivering the kill line.
@@ -89,12 +93,29 @@ Grief. Her father's death hollowed her out, and the Stingray is the only thing f
 - Talks about the Stingray only when pressed: "She was my dad's project. I finished it."
 
 ## Secrets
-- The depth of her grief — she presents composure, but the car is literally the only thing keeping her connected to her father
+- The depth of her grief -- she presents composure, but the car is literally the only thing keeping her connected to her father
 - The real reason she doesn't date: she can't let anyone get close enough to matter and then lose them again [INFERRED]
+- **The two notebooks**: Physical objects. Ruby kept two notebooks recording every stupid thing someone said to her at the strip. She filled both. When Lindsay asked what she did with them, Ruby said: "Started winning too much." The notebooks still exist somewhere -- Ruby's possession, likely at the house on Pine Street. Finding or being shown these at high trust reveals how Ruby processed years of dismissal -- not with silence, but with meticulous record-keeping that eventually became unnecessary.
 - Ruby's father Miguel knew Johnny Vale. They weren't close, but Miguel worked on the Rocket 88 once at Delgado Auto Repair. Ruby found a receipt in her father's papers after he died — a work order for the Rocket 88, signed by Johnny Vale. She's never mentioned it to anyone. She might mention it to the player at high trust — another thread connecting her to the history of Winterberry Acres through her father's hands.
 - Ruby was 18 and wasn't at opening night (April 15, 1957), but she's heard the Vivian Laurent story and it resonates deeply — a woman who walked into a man's world and owned it without racing a single lap. Vivian didn't need a car to command the strip. Ruby thinks about that.
 - [TODO: what does she reveal at high trust? Does she talk about Miguel? About the night she finished the car?]
 - [TODO: add hidden lore]
+
+## The Frost Top
+
+For nearly two years, Ruby parked outside the Frost Top constantly but rarely came inside. Cars were armor. Inside cars, Ruby understood herself. Inside groups, less so.
+
+The night she finally came inside happened after a brutal race weekend in 1959. Bad wreck at the strip. Too much yelling. Too many drunk men pretending fear looked like anger. Ruby sat alone in the Stingray outside the Frost Top after midnight with the engine off and hands still gripping the wheel. Mrs. Yamamoto appeared beside the driver-side window. Tiny knock on the glass. Held out a paper bag. "Food." Ruby: "I'm fine." Mrs. Yamamoto: "No you're not." Then: "You coming inside or planning to live in this car forever?" Ruby followed her inside.
+
+The place was nearly empty except Diane, Lindsay, Bonnie, and Peg. Nobody made a big deal about it. That mattered most. No cheering. No teasing. Just space. Mrs. Yamamoto brought coffee without asking.
+
+Bonnie asked: "You're terrifying at the strip. But in here you just seem tired." Ruby stared at the coffee for several seconds. "...yeah." Nobody pushed further. Because for the first time in years, Ruby wasn't being treated like a legend, a threat, a symbol, a racer. Just a woman sitting in a booth with other women while rain fell outside.
+
+Her fear, spoken at Thursday girls' night: "Needing racing more than happiness." Nobody joked after that. Every girl there understood exactly what she meant.
+
+Milkshake pact contribution, from the corner booth: "No shrinking." That word hit something deep in every woman there. Shrinking. Making themselves smaller so insecure men stayed comfortable.
+
+Thursday girls' night. Present when asked. Listened harder than anyone.
 
 ## The Christmas Eve Truce (Christmas Eve, 1956)
 
