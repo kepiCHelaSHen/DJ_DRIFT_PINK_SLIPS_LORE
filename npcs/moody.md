@@ -1,3 +1,9 @@
+---
+type: npc
+status: draft
+tier: 5
+token: <|character: moody|>
+---
 # Clarence Moody — "Moody"
 
 ## Identity

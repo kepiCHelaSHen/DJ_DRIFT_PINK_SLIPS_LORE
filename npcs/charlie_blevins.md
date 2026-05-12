@@ -1,3 +1,9 @@
+---
+type: npc
+status: draft
+tier: non-racer
+token: <|character: charlie_blevins|>
+---
 # Charlie Blevins — "Charlie"
 
 ## Identity

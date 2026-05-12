@@ -1,3 +1,9 @@
+---
+type: npc
+status: draft
+tier: 4
+token: <|character: whitey|>
+---
 # Whitey Simmons — "Whitey"
 
 ## Identity

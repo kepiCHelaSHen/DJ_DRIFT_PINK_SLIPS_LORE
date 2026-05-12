@@ -1,3 +1,9 @@
+---
+type: npc
+status: canon
+tier: outsider
+token: <|character: leon_serrano|>
+---
 # Leon "Lucky" Serrano — "Lucky"
 
 ## Identity

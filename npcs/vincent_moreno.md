@@ -1,3 +1,9 @@
+---
+type: npc
+status: historical
+tier: historical
+token: <|character: vincent_moreno|>
+---
 # Vincent Moreno — Historical NPC (Deceased)
 
 ## Identity

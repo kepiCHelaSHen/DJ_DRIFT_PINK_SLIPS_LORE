@@ -1,3 +1,9 @@
+---
+type: npc
+status: draft
+tier: 3
+token: <|character: new_walt|>
+---
 # Walt Novak — "New Walt"
 
 ## Identity

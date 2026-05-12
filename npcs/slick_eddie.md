@@ -1,3 +1,9 @@
+---
+type: npc
+status: canon
+tier: 1
+token: <|character: slick_eddie|>
+---
 # Eddie Malone — "Slick Eddie"
 
 ## Identity

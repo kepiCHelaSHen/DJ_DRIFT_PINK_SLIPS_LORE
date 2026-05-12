@@ -1,3 +1,9 @@
+---
+type: npc
+status: draft
+tier: 3
+token: <|character: hank_the_crank|>
+---
 # Hank Calloway — "Hank the Crank"
 
 ## Identity

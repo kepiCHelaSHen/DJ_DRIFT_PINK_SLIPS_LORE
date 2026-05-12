@@ -1,3 +1,9 @@
+---
+type: npc
+status: canon
+tier: 2
+token: <|character: red_line_lindsay|>
+---
 # Lindsay Smith — "Red Line Lindsay"
 
 ## Identity

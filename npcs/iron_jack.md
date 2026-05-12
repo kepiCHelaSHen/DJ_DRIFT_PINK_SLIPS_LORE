@@ -1,3 +1,9 @@
+---
+type: npc
+status: canon
+tier: 1
+token: <|character: iron_jack|>
+---
 # Jack Drummond — "Iron Jack"
 
 ## Identity

@@ -1,3 +1,9 @@
+---
+type: npc
+status: canon
+tier: non-racer
+token: <|character: earl_patterson|>
+---
 # Earl Patterson — "Earl the Flagman"
 
 ## Identity

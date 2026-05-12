@@ -1,3 +1,9 @@
+---
+type: npc
+status: draft
+tier: 4
+token: <|character: benny_k|>
+---
 # Benny Kowalski — "Benny K"
 
 ## Identity

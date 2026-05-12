@@ -1,3 +1,9 @@
+---
+type: npc
+status: canon
+tier: 4
+token: <|character: tony_marc|>
+---
 # Tony Marcone — "Tony Marc"
 
 ## Identity

@@ -1,3 +1,9 @@
+---
+type: npc
+status: draft
+tier: 3
+token: <|character: donnie|>
+---
 # Danny Finch — "Donnie"
 
 ## Identity

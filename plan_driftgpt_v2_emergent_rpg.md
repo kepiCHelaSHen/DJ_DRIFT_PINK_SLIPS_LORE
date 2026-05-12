@@ -1,3 +1,9 @@
+---
+type: plan
+status: active
+description: Technical roadmap for DriftGPT v2 — model retraining, memory system, Godot integration
+---
+
 # DriftGPT v2 — Emergent RPG Dialogue System
 
 ## Vision

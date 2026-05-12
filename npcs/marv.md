@@ -1,3 +1,9 @@
+---
+type: npc
+status: draft
+tier: 4
+token: <|character: marv|>
+---
 # Marvin Tucker — "Marv"
 
 ## Identity

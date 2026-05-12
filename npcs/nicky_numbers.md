@@ -1,3 +1,9 @@
+---
+type: npc
+status: canon
+tier: 3
+token: <|character: nicky_numbers|>
+---
 # Nicky Ferris — "Nicky Numbers"
 
 ## Identity

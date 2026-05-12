@@ -1,3 +1,11 @@
+---
+type: event
+status: canon
+year: 1957
+characters: [henderson, carmine, dj_drift, smooth_ray, wes, nicky_numbers, old_gene, iron_jack, slick_eddie, ruby_red, angie, tommy_two_time]
+locations: [strip]
+---
+
 # Opening Night — April 15, 1957
 
 ## The Event

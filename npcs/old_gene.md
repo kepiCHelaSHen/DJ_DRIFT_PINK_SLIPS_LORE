@@ -1,3 +1,9 @@
+---
+type: npc
+status: canon
+tier: 2
+token: <|character: old_gene|>
+---
 # Gene Hartwell — "Old Gene"
 
 ## Identity

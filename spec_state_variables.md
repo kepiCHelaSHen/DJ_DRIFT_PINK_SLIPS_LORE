@@ -1,3 +1,9 @@
+---
+type: spec
+status: canon
+description: Game state variable system — NPC relationships, player state, NPC internal state
+---
+
 # DriftGPT State Variable Specification
 
 The complete set of variables that define every NPC interaction in DJ DRIFT'S PINK SLIPS. Every variable becomes a token in the model's prompt. The model learns what each combination means from training data — behavior is trained, not coded.

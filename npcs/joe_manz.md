@@ -1,3 +1,9 @@
+---
+type: npc
+status: draft
+tier: 3
+token: <|character: joe_manz|>
+---
 # Joe Manzetti — "Joe Manz"
 
 ## Identity

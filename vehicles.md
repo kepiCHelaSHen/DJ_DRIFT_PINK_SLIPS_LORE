@@ -1,3 +1,9 @@
+---
+type: reference
+status: canon
+description: Complete vehicle bible — 5 manufacturers, 50 vehicles, engine specs, NPC assignments
+---
+
 # Winterberry Acres Vehicle Bible
 
 The cars of DJ DRIFT'S PINK SLIPS. All manufacturers and model names are fictional, inspired by the golden age of American automotive design (1932–1959). This document is the single source of truth for every vehicle in the game. The 3D pipeline, NPC lore files, and training data all reference these names.

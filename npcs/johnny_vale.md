@@ -1,3 +1,9 @@
+---
+type: npc
+status: historical
+tier: historical
+token: <|character: johnny_vale|>
+---
 # Johnny Vale — "Last Call"
 
 ## Identity

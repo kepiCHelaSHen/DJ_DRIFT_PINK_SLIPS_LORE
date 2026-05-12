@@ -1,3 +1,9 @@
+---
+type: npc
+status: canon
+tier: 1
+token: <|character: ruby_red|>
+---
 # Ruby Delgado — "Ruby Red"
 
 ## Identity

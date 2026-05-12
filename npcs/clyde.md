@@ -1,3 +1,9 @@
+---
+type: npc
+status: draft
+tier: 4
+token: <|character: clyde|>
+---
 # Clyde Watkins — "Clyde"
 
 ## Identity

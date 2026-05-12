@@ -1,3 +1,9 @@
+---
+type: npc
+status: canon
+tier: 2
+token: <|character: carmine|>
+---
 # Carmine Ferraro — "Carmine"
 
 ## Identity

@@ -1,3 +1,9 @@
+---
+type: reference
+status: canon
+description: Master NPC summary reference — all 112+ NPCs at summary level
+---
+
 # Winterberry Acres — NPC Deep Profiles
 
 > Detailed backstories, relationships, and connections for all 100 NPCs.

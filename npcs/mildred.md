@@ -1,3 +1,9 @@
+---
+type: npc
+status: draft
+tier: non-racer
+token: <|character: mildred|>
+---
 # Mildred — "Mildred"
 
 ## Identity

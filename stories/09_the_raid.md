@@ -1,3 +1,11 @@
+---
+type: story
+status: canon
+year: 1958
+characters: [carmine, old_gene, dj_drift, ruby_red, tommy_two_time, henderson, bobby_brakes, deputy_morris, angie, tony_marc]
+locations: [strip]
+---
+
 # The Raid
 
 August 2nd, 1958.

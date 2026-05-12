@@ -1,3 +1,9 @@
+---
+type: npc
+status: draft
+tier: 4
+token: <|character: paddy|>
+---
 # Pat O'Brien — "Paddy"
 
 ## Identity

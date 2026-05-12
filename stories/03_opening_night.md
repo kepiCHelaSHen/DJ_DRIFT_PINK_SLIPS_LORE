@@ -1,3 +1,11 @@
+---
+type: story
+status: canon
+year: 1957
+characters: [old_gene, angie, carmine, dj_drift, smooth_ray, nicky_numbers, wes, henderson, mel]
+locations: [strip]
+---
+
 # Opening Night
 
 April 15, 1957.

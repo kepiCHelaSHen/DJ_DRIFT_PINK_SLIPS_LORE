@@ -1,3 +1,9 @@
+---
+type: npc
+status: draft
+tier: non-racer
+token: <|character: phil_garvey|>
+---
 # Phil Garvey — "Phil Garvey"
 
 ## Identity

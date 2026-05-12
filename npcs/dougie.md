@@ -1,3 +1,9 @@
+---
+type: npc
+status: draft
+tier: 5
+token: <|character: dougie|>
+---
 # Doug Farnsworth — "Dougie"
 
 ## Identity

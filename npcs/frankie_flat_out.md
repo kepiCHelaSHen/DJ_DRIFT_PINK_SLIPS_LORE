@@ -1,3 +1,9 @@
+---
+type: npc
+status: draft
+tier: 3
+token: <|character: frankie_flat_out|>
+---
 # Frank Morelli — "Frankie Flat-Out"
 
 ## Identity

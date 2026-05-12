@@ -1,3 +1,11 @@
+---
+type: story
+status: canon
+year: 1949
+characters: []
+locations: [crybaby_bridge]
+---
+
 # Crybaby Bridge
 
 In the backroads outside town, where the trees swallowed the moonlight and the river carved a black scar through the ravine, there stood an old wooden crossing locals called Crybaby Bridge.

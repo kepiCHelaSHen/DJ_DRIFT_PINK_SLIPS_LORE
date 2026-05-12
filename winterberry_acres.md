@@ -1,3 +1,9 @@
+---
+type: world-bible
+status: canon
+description: Geography, culture, slang, social norms for Winterberry Acres
+---
+
 # Winterberry Acres — World Bible
 
 > Reference document for all DriftGPT corpus generation and character dialogue.

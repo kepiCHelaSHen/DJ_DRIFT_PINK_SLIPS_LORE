@@ -1,3 +1,9 @@
+---
+type: npc
+status: draft
+tier: 3
+token: <|character: bobby_brakes|>
+---
 # Bobby Strand — "Bobby Brakes"
 
 ## Identity

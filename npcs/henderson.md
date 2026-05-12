@@ -1,3 +1,9 @@
+---
+type: npc
+status: canon
+tier: 2
+token: <|character: henderson|>
+---
 # Henderson Cole — "Henderson"
 
 ## Identity

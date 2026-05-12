@@ -1,3 +1,9 @@
+---
+type: npc
+status: canon
+tier: 2
+token: <|character: jimmy_the_kid|>
+---
 # Jimmy Dawes — "Jimmy the Kid"
 
 ## Identity

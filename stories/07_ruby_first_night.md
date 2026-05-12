@@ -1,3 +1,11 @@
+---
+type: story
+status: canon
+year: 1956
+characters: [ruby_red, dj_drift, tommy_two_time, bobby_brakes, henderson, carmine, earl]
+locations: [strip]
+---
+
 # The Night Ruby Showed Up
 
 Summer, 1956.

@@ -1,3 +1,9 @@
+---
+type: npc
+status: draft
+tier: non-racer
+token: <|character: sheriff_dawkins|>
+---
 # Sheriff Dawkins — "Sheriff Dawkins"
 
 ## Identity

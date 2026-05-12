@@ -1,3 +1,11 @@
+---
+type: story
+status: canon
+year: 1957
+characters: [iron_jack, henderson, old_gene, carmine, speedball, tommy_two_time, ruby_red]
+locations: [strip, garage]
+---
+
 # Jack Drummond's Last Real Race
 
 Fall, 1957.

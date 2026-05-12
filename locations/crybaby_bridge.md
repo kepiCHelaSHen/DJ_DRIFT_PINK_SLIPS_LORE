@@ -1,3 +1,10 @@
+---
+type: location
+status: canon
+year: 1949
+characters: [iron_jack, old_gene, carmine, wes, old_abe, darnell, slick_eddie, the_professor, dj_drift, tommy_two_time]
+---
+
 # Crybaby Bridge
 
 ## Location

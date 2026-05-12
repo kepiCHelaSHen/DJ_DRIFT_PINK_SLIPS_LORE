@@ -1,3 +1,9 @@
+---
+type: npc
+status: draft
+tier: 3
+token: <|character: cooter|>
+---
 # Cooter Finch — "Cooter"
 
 ## Identity

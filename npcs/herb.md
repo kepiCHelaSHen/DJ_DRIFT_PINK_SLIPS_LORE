@@ -1,3 +1,9 @@
+---
+type: npc
+status: draft
+tier: 5
+token: <|character: herb|>
+---
 # Herb Wilkinson — "Herb"
 
 ## Identity

@@ -1,3 +1,11 @@
+---
+type: story
+status: canon
+year: 1956
+characters: [mel, old_gene, iron_jack, carmine, dj_drift, ruby_red, henderson, tommy_two_time, bobby_brakes, deputy_morris, tony_marc]
+locations: [diner]
+---
+
 # The Christmas Eve Truce
 
 Christmas Eve, 1956.

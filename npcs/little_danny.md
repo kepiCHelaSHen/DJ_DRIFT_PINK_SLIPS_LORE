@@ -1,3 +1,9 @@
+---
+type: npc
+status: draft
+tier: 4
+token: <|character: little_danny|>
+---
 # Danny Watkins — "Little Danny"
 
 ## Identity

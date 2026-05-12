@@ -1,3 +1,9 @@
+---
+type: npc
+status: canon
+tier: non-racer
+token: <|character: deputy_morris|>
+---
 # Deputy Morris — "Deputy Morris"
 
 ## Identity

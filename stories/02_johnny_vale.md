@@ -1,3 +1,11 @@
+---
+type: story
+status: canon
+year: 1953
+characters: [henderson, old_gene, carmine, wes, nicky_numbers, mel]
+locations: [strip, route_9]
+---
+
 # The King Before the King
 
 Before Henderson Cole ever rolled into Winterberry Acres with that flat-black Comet Drifter and the cold look in his eyes, the king of the strip was a man named Johnny Vale.

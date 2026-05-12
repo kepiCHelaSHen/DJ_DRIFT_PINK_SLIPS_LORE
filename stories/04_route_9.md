@@ -1,3 +1,11 @@
+---
+type: story
+status: canon
+year: 1951
+characters: [carmine, iron_jack, old_gene, wes, del, bobby_brakes, virgil_the_viper, angie, mel]
+locations: [route_9]
+---
+
 # The Route 9 Accident
 
 1951 - Before the strip.

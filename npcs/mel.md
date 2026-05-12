@@ -1,3 +1,9 @@
+---
+type: npc
+status: canon
+tier: non-racer
+token: <|character: mel|>
+---
 # Mel Kowalski — "Mel"
 
 ## Identity

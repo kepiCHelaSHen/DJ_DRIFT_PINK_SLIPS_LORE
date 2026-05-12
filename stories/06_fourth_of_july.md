@@ -1,3 +1,11 @@
+---
+type: story
+status: canon
+year: 1957
+characters: [henderson, darnell, carmine, dj_drift, nicky_numbers, old_gene, deputy_morris, mel, angie, iron_jack]
+locations: [strip]
+---
+
 # The Fourth of July Grudge Match
 
 July 4th, 1957.

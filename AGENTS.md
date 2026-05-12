@@ -1,3 +1,9 @@
+---
+type: reference
+status: canon
+description: Overview of the 6 lore pipeline agents and their workflow
+---
+
 # DriftGPT Agent Definitions
 
 Custom agents for building and validating the DriftGPT dialogue system. Agent definitions are in `.claude/agents/`.

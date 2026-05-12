@@ -1,3 +1,11 @@
+---
+type: story
+status: canon
+year: 1950
+characters: [tony_marc, nicky_numbers, mel]
+locations: [pool_hall]
+---
+
 # Tony Marcone's First Night
 
 1950 - Long before anybody in Winterberry Acres knew the name Tony Marcone, a black Atlas Box truck rolled into town just after midnight during a rainstorm and parked behind the pool hall on Vine Street.

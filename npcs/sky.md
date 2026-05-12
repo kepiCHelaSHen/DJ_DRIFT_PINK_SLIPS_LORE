@@ -1,3 +1,9 @@
+---
+type: npc
+status: canon
+tier: 2
+token: <|character: sky|>
+---
 # Skylar Johnson — "Sky"
 
 ## Identity

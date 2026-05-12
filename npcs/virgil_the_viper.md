@@ -1,3 +1,9 @@
+---
+type: npc
+status: canon
+tier: 2
+token: <|character: virgil_the_viper|>
+---
 # Virgil Stanton — "Virgil the Viper"
 
 ## Identity

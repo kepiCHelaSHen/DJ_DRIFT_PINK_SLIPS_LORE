@@ -1,3 +1,9 @@
+---
+type: npc
+status: draft
+tier: non-racer
+token: <|character: mr_yamamoto|>
+---
 # Mr. Yamamoto — "Mr. Yamamoto"
 
 ## Identity

@@ -1,3 +1,9 @@
+---
+type: npc
+status: canon
+tier: 5
+token: <|character: darnell|>
+---
 # Darnell Price — "Darnell"
 
 ## Identity

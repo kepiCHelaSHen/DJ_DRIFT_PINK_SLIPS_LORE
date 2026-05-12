@@ -1,3 +1,9 @@
+---
+type: npc
+status: canon
+tier: 2
+token: <|character: tommy_two_time|>
+---
 # Tommy Pierce — "Tommy Two-Time"
 
 ## Identity

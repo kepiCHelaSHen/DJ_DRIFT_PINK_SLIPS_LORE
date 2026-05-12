@@ -1,3 +1,9 @@
+---
+type: npc
+status: canon
+tier: 4
+token: <|character: speedball|>
+---
 # Dennis Kohl — "Speedball"
 
 ## Identity

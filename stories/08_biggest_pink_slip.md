@@ -1,3 +1,11 @@
+---
+type: story
+status: canon
+year: 1958
+characters: [henderson, carmine, tony_marc, nicky_numbers, deputy_morris, iron_jack, mel]
+locations: [strip, diner]
+---
+
 # The Biggest Pink Slip Race
 
 By the fall of 1958, pink slip races had gotten out of control at Winterberry Acres.

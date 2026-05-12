@@ -1,3 +1,9 @@
+---
+type: npc
+status: draft
+tier: 3
+token: <|character: ricky_d|>
+---
 # Ricky Dawes — "Ricky D"
 
 ## Identity

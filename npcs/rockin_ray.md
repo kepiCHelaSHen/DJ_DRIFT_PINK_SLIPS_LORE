@@ -1,3 +1,9 @@
+---
+type: npc
+status: draft
+tier: non-racer
+token: <|character: rockin_ray|>
+---
 # Rockin' Ray Reardon — "Rockin' Ray"
 
 ## Identity
